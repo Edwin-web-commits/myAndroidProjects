@@ -18,4 +18,11 @@
         android:text="Add Activity"
         android:onClick="addActivityButton"
         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Activity"
+        android:onClick="addActivityButton"
+        />
 </LinearLayout>
