@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SetupActivity">
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/pp"
+        android:onClick="profileImageButtonClicked"
+        android:id="@+id/setupImageButton"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/displayName"
+        android:hint="Enter username"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/editshape"
+        android:layout_marginTop="10dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/editshape"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Done"
+        android:onClick="doneButtonClicked"
+        />
+
+
+
+</LinearLayout>

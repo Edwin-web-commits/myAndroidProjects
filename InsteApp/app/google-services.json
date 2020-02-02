@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935621506819",
+    "firebase_url": "https://insteapp-8493c.firebaseio.com",
+    "project_id": "insteapp-8493c",
+    "storage_bucket": "insteapp-8493c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935621506819:android:30942901ae86d806111b36",
+        "android_client_info": {
+          "package_name": "com.example.insteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935621506819-gduo988pvui0ra13v7b3ulnom4u6fibo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insteapp",
+            "certificate_hash": "4d849f72d630b162c3f0ed754ad19e8f1e223855"
+          }
+        },
+        {
+          "client_id": "935621506819-aqq9h9g8t2jiq6tg0ac6e97sumv06s6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_PWP0BRqBTgSSZ4JvVVy20-AJxLNOTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935621506819-aqq9h9g8t2jiq6tg0ac6e97sumv06s6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
